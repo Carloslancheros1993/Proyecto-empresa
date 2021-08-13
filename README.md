@@ -1,4 +1,4 @@
-# Sistema_Facturacion
+# Proyecto_empresa
 Python, Django, jwt,sql
 
 # Installar Django
